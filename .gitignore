@@ -6,7 +6,7 @@
 *.dep
 *.htm
 *.iex
-*.inp
+*.lnp
 *.lst
 *.o
 *.User
